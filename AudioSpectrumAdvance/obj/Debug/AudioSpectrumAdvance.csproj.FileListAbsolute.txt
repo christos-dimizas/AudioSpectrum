@@ -1,0 +1,17 @@
+c:\users\houri\documents\visual studio 2015\Projects\AudioSpectrumAdvance\AudioSpectrumAdvance\bin\Debug\AudioSpectrumAdvance.exe.config
+c:\users\houri\documents\visual studio 2015\Projects\AudioSpectrumAdvance\AudioSpectrumAdvance\bin\Debug\AudioSpectrumAdvance.exe
+c:\users\houri\documents\visual studio 2015\Projects\AudioSpectrumAdvance\AudioSpectrumAdvance\bin\Debug\AudioSpectrumAdvance.pdb
+c:\users\houri\documents\visual studio 2015\Projects\AudioSpectrumAdvance\AudioSpectrumAdvance\bin\Debug\Bass.Net.dll
+c:\users\houri\documents\visual studio 2015\Projects\AudioSpectrumAdvance\AudioSpectrumAdvance\obj\Debug\AudioSpectrumAdvance.csprojResolveAssemblyReference.cache
+c:\users\houri\documents\visual studio 2015\Projects\AudioSpectrumAdvance\AudioSpectrumAdvance\obj\Debug\AudioSpectrumAdvance.Properties.Resources.resources
+c:\users\houri\documents\visual studio 2015\Projects\AudioSpectrumAdvance\AudioSpectrumAdvance\obj\Debug\AudioSpectrumAdvance.csproj.GenerateResource.Cache
+c:\users\houri\documents\visual studio 2015\Projects\AudioSpectrumAdvance\AudioSpectrumAdvance\obj\Debug\AudioSpectrumAdvance.exe
+c:\users\houri\documents\visual studio 2015\Projects\AudioSpectrumAdvance\AudioSpectrumAdvance\obj\Debug\AudioSpectrumAdvance.pdb
+c:\users\houri\documents\visual studio 2015\Projects\AudioSpectrumAdvance\AudioSpectrumAdvance\obj\Debug\Spectrum.baml
+c:\users\houri\documents\visual studio 2015\Projects\AudioSpectrumAdvance\AudioSpectrumAdvance\obj\Debug\Spectrum.g.cs
+c:\users\houri\documents\visual studio 2015\Projects\AudioSpectrumAdvance\AudioSpectrumAdvance\obj\Debug\AudioSpectrumAdvance_MarkupCompile.cache
+c:\users\houri\documents\visual studio 2015\Projects\AudioSpectrumAdvance\AudioSpectrumAdvance\obj\Debug\AudioSpectrumAdvance.g.resources
+c:\users\houri\documents\visual studio 2015\Projects\AudioSpectrumAdvance\AudioSpectrumAdvance\obj\Debug\AudioSpectrumAdvance.Form1.resources
+C:\Users\Christos Dimizas\Desktop\GitHub\AudioSpectrum\AudioSpectrumAdvance\bin\Debug\AudioSpectrumAdvance.exe.config
+C:\Users\Christos Dimizas\Desktop\GitHub\AudioSpectrum\AudioSpectrumAdvance\obj\Debug\AudioSpectrumAdvance.exe
+C:\Users\Christos Dimizas\Desktop\GitHub\AudioSpectrum\AudioSpectrumAdvance\obj\Debug\AudioSpectrumAdvance.pdb
